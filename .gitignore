@@ -5,6 +5,10 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
+# Unreal temporary actor files
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
 # Compiled Object files
 *.slo
 *.lo
