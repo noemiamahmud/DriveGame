@@ -3,9 +3,11 @@ Car game - final project for Game Dev
 
 IMPORTANT!!!!!!!
 
-git lfs install 
+
 
 clone in your terminal using these steps:
+
+git lfs install 
 
 git clone https://github.com/noemiamahmud/DriveGame.git
 
